@@ -1,6 +1,7 @@
 mode = "dark"
 
 accent = "#33b1ff"
+hyprland_active_border = "#ff7eb6"
 selection = "#41414d"
 muted = "#525252"
 
